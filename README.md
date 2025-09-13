@@ -1,4 +1,4 @@
-# Diabetes-Prediction-using-Healthcare-Dataset  
+# Diabetes Prediction using Healthcare Dataset  
 
 ## Project Description  
 This project uses the **Healthcare Diabetes Dataset** from Kaggle to build a machine learning model that predicts whether a patient is diabetic or non-diabetic based on medical attributes such as age, glucose level, BMI, insulin, and other health indicators.  
