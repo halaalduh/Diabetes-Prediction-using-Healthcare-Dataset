@@ -11,7 +11,6 @@ The main objectives are:
 Diabetes is one of the most common chronic diseases worldwide and an increasing health concern. Early prediction can significantly reduce complications and improve patients’ quality of life. By applying **machine learning classification and clustering techniques** to this dataset, we aim to:  
 - Provide useful insights for healthcare professionals.  
 - Support preventive healthcare and awareness.  
-- Demonstrate how AI can contribute to solving real-world medical problems.  
 
 ## Students’ Names  
 - Hala Alduhayan 445202381
